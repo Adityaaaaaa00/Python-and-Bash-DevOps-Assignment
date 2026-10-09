@@ -1,0 +1,4 @@
+Python and Bash Assignment
+Task 3: Writing to a File
+Python makes file handling simple.
+This file was created using Python.
